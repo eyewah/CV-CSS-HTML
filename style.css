@@ -1,14 +1,3 @@
-/*
----------------------------------------------------------------------------------
-	STRIPPED DOWN RESUME TEMPLATE
-    html resume
-
-    v0.9: 5/28/09
-
-    design and code by: thingsthatarebrown.com 
-                        (matt brown)
----------------------------------------------------------------------------------
-*/
 
 
 .msg { padding: 10px; background: #222; position: relative; }
@@ -49,27 +38,7 @@ p.enlarge span { color: #000 }
 
 
 
-.tur {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-  
-  .tur2 {
-    position: relative;
-  }
-  
-  .search_img {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background-image: url('pngava.png');
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center center;
-  }
+
   
 /* //-- section styles -- */
 
